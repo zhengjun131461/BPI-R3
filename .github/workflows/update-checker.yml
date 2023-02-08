@@ -12,7 +12,7 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/zhengjun131461/OP-BPI-R3.git
+  REPO_URL: https://github.com/zhengjun131461/OP-BPI-R3
   REPO_BRANCH: master
 
 on:
